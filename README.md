@@ -73,5 +73,11 @@ npm install -D eslint-plugin-react-hooks@4.6.0
 ```
 {}
 ```
-
+* .gitignore
+```
+node_modules
+.env
+coverage/
+.vscode/
+```
 
